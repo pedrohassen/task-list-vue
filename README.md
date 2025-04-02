@@ -24,6 +24,6 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Git Test
-It's just a test for git
+It's just a test for git. But it is cool!
 
 # Wagner Esteve Aqui
